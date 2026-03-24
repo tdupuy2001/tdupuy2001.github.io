@@ -1,29 +1,15 @@
-title: "Théo Dupuy"
-name: "Théo Dupuy"
-email: "theo.dupuy@mines-ales.fr"
-# description: "Chercheur en ..."
-
+# Site Settings
+locale                   : "en-US"
+title                    : "Personal website"
+title_separator          : "-"
+name                     : &name "Théo DUPUY"
+description              : &description "PhD student in Machine Leaning"
 url: "https://tdupuy2001.github.io"
 baseurl: ""
-
-remote_theme: academicpages/academicpages.github.io
-
-plugins:
-  - jekyll-remote-theme
-
-author:
-  name: "Théo Dupuy"
-  avatar: "/assets/images/profile.jpg"
-  bio: "PhD student on Machine Learning"
-  location: "France"
-  email: "theo.dupuy@mines-ales.fr"
-
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "Talks"
-    url: /talks/
+repository               : "tdupuy2001/tdupuy2001.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add
