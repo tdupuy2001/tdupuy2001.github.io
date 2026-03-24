@@ -1,6 +1,6 @@
-# title: "Théo Dupuy"
-# name: "Théo Dupuy"
-# email: "theo.dupuy@mines-ales.fr"
+title: "Théo Dupuy"
+name: "Théo Dupuy"
+email: "theo.dupuy@mines-ales.fr"
 # description: "Chercheur en ..."
 
 url: "https://tdupuy2001.github.io"
@@ -18,7 +18,7 @@ author:
   location: "France"
   email: "theo.dupuy@mines-ales.fr"
 
-navbar:
+nav:
   - title: "About"
     url: /about/
   - title: "Publications"
