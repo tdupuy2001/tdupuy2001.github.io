@@ -13,7 +13,7 @@ author:
   bio: "Courte bio ici"
   avatar: "/images/profile.png"
   email: "theo.dupuy@mines-ales.fr"
-  github: "ttdupuy2001"
+  github: "tdupuy2001"
 
 # Collections
 collections:
@@ -21,17 +21,6 @@ collections:
     output: false #true si je veux une page par article
   talks:
     output: false
-
-# Navigation (barre de menu)
-nav:
-  - title: "About"
-    url: /
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
-  - title: "Talks"
-    url: /talks/
 
 # Build settings
 markdown: kramdown
