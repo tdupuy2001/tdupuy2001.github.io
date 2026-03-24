@@ -1,5 +1,5 @@
 # Site settings
-title: "My personal website "
+title: "Home"
 name: "Théo Dupuy"
 description: "Site académique personnel"
 url: "https://tdupuy2001.github.io"
@@ -9,14 +9,13 @@ timezone: "Europe/Paris"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/profile.png"
+  name             : "Théo Dupuy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD student on Machine Learning at EuroMov DHM"
+  location         : "Montpellier, France"
+  employer         : "IMT Mines Alès"
+  email            : "theo.dupuy@mines-ales.fr" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +51,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "theo-dupuy"
+  linkedin         : "theo-dupuy-84b201229"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
