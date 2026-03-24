@@ -1,7 +1,7 @@
-title: "Théo Dupuy"
-name: "Théo Dupuy"
-email: "theo.dupuy@mines-ales.fr"
-description: "Chercheur en ..."
+# title: "Théo Dupuy"
+# name: "Théo Dupuy"
+# email: "theo.dupuy@mines-ales.fr"
+# description: "Chercheur en ..."
 
 url: "https://tdupuy2001.github.io"
 baseurl: ""
@@ -12,11 +12,11 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name: "Ton Nom"
+  name: "Théo Dupuy"
   avatar: "/assets/images/profile.jpg"
-  bio: "Chercheur en ..."
+  bio: "PhD student on Machine Learning"
   location: "France"
-  email: "ton.email@exemple.com"
+  email: "theo.dupuy@mines-ales.fr"
 
 navbar:
   - title: "About"
