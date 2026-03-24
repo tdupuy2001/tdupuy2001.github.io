@@ -9,7 +9,7 @@ timezone: "Europe/Paris"
 
 author:
   # Biographic information
-  avatar           : "/images/profile_2.png"
+  avatar           : "profile.jpg"
   name             : "Théo Dupuy"
   bio              : "PhD student on Machine Learning at EuroMov DHM"
   location         : "Montpellier, France"
