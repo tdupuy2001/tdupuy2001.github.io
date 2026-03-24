@@ -1,3 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 ---
+
+test
