@@ -9,7 +9,7 @@ timezone: "Europe/Paris"
 
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.jpg"
   name             : "Théo Dupuy"
   pronouns         : # example: "she/her"  
   bio              : "PhD student on Machine Learning at EuroMov DHM"
