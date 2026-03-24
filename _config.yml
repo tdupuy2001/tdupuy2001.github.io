@@ -9,9 +9,8 @@ timezone: "Europe/Paris"
 
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile_2.png"
   name             : "Théo Dupuy"
-  pronouns         : # example: "she/her"  
   bio              : "PhD student on Machine Learning at EuroMov DHM"
   location         : "Montpellier, France"
   employer         : "IMT Mines Alès"
