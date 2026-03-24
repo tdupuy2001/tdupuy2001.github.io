@@ -1,0 +1,29 @@
+title: "Théo Dupuy"
+name: "Théo Dupuy"
+email: "theo.dupuy@mines-ales.fr"
+description: "Chercheur en ..."
+
+url: "https://tdupuy2001.github.io"
+baseurl: ""
+
+remote_theme: academicpages/academicpages
+
+plugins:
+  - jekyll-remote-theme
+
+author:
+  name: "Ton Nom"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Chercheur en ..."
+  location: "France"
+  email: "ton.email@exemple.com"
+
+navbar:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
+  - title: "Talks"
+    url: /talks/
