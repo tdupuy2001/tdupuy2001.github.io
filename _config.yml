@@ -6,7 +6,7 @@ description: "Chercheur en ..."
 url: "https://tdupuy2001.github.io"
 baseurl: ""
 
-remote_theme: academicpages/academicpages
+remote_theme: academicpages/academicpages.github.io
 
 plugins:
   - jekyll-remote-theme
