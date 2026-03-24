@@ -1,7 +1,7 @@
 # Site settings
-title: "Home"
+title: "Théo Dupuy"
 name: "Théo Dupuy"
-description: "Site académique personnel"
+description: "Academic website"
 url: "https://tdupuy2001.github.io"
 baseurl: "" 
 locale: "en-US"
@@ -9,7 +9,7 @@ timezone: "Europe/Paris"
 
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Théo Dupuy"
   pronouns         : # example: "she/her"  
   bio              : "PhD student on Machine Learning at EuroMov DHM"
