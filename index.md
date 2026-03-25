@@ -7,7 +7,7 @@ Welcome on my academic website !
 
 ## Presentation
 
-I'm a second-year PhD student working on Machine Learning (ML) at EuroMov Digital Health in Motion (Univ. Montpellier, IMT Mines Alès). I'm particularly interested in understanding how we can create predictive models which are abble to support decision-makers, especially in sensitive fields such as the ones we work on at EuroMov DHM (health, sports medicine, etc.). Indeed, in these sensitive areas, any inaccurate algorithm can lead to potential adverse consequences. Thus, AI algorithms should incorporate methods capable of providing information about their quality. This would allow decision-makers and experts to gauge the level of confidence they can place in the AI’s predictions. To do so, my research focuses on uncertainty quantification in ML. During the first year of my PhD, I focused in particular on conformal prediction in the context of time series. On the application side, for now, I have mainly worked with GPS and heart rate data for different use cases. Looking ahead, I would like to explore Return-to-Play applications, depending on data availability.
+I'm a second-year PhD student working on Machine Learning (ML) at EuroMov Digital Health in Motion (Univ. Montpellier, IMT Mines Alès). I'm particularly interested in understanding how we can create predictive models which are abble to support decision-makers, especially in sensitive fields such as the ones we work on at EuroMov DHM (health, sports medicine, etc.). Indeed, in these sensitive areas, any inaccurate algorithm can lead to potential adverse consequences. Thus, ML algorithms should incorporate methods capable of providing information about their quality. This would allow decision-makers and experts to gauge the level of confidence they can place in the ML’s predictions. To do so, my research focuses on uncertainty quantification in ML. During the first year of my PhD, I focused in particular on conformal prediction in the context of time series. On the application side, for now, I have mainly worked with GPS and heart rate data for different use cases. Looking ahead, I would like to explore Return-to-Play applications, depending on data availability.
 
 
 ## News
@@ -19,4 +19,4 @@ I'm a second-year PhD student working on Machine Learning (ML) at EuroMov Digita
 
 ## Old news
 - Excited to announce that, in february 2025, I attented my first international workshop: Workshop on Uncertainty in Machine Learning (WUML 2025) in Milan. I presented a [poster](https://www.researchgate.net/publication/389688980_Cautious_Regression_To_Predict_Return_To_Play) about *Cautious Regression to Predict Return To Play*.
-- A new milestone in my carreer: on october 1st 2O24, I started my PhD.
+- A new milestone in my carreer: on october 1st 2024, I started my PhD.
