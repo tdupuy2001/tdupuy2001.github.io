@@ -6,10 +6,10 @@ title: Publications
 ---
 
 ## 2025
-- [*Relevance-Aware Thresholding in Online Conformal Prediction for Time Series*](https://arxiv.org/pdf/2510.02809)  
-Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten   
+- [*Relevance-Aware Thresholding in Online Conformal Prediction for Time Series*](https://arxiv.org/pdf/2510.02809)<br>
+Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten<br>
 International Joint Workshop of Artificial Intelligence for Healthcare and HYbrid Models for Coupling Deductive and Inductive ReAsoning (ECAI 2025)
 
-- [*Cautious Regression to Predict Return To Play*](https://www.researchgate.net/publication/389688980_Cautious_Regression_To_Predict_Return_To_Play)  
-Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten  
+- [*Cautious Regression to Predict Return To Play*](https://www.researchgate.net/publication/389688980_Cautious_Regression_To_Predict_Return_To_Play)<br>  
+Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten<br>  
 WUML 2025
